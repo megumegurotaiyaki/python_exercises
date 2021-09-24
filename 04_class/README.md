@@ -19,7 +19,7 @@ class Bot():
 
     def reply(self, call):
         """
-        WRITE YOUR CODE HERE
+        out = self.owner_name
         """
 
 
