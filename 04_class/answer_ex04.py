@@ -5,7 +5,7 @@ import unittest
 class Bot():
 
     def __init__(self, owner_name):
-        self.owner_name = name
+        self.owner_name = owner_name
 
     def reply(self, call):
         if self.owner_name in call:
